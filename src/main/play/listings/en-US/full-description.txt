@@ -1,0 +1,21 @@
+This application adds Quebec City àVélo bike stations information to MonTransit.
+
+This app contains the bike stations position & availability as well as the latest news from @RTCQuebec on Twitter.
+
+àVélo is available from April to November in Quebec City, QC, Canada.
+
+Once this application is installed, the MonTransit app will display bike stations information (number of available bikes & docks).
+
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link https://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from a web-service provided by PBSC.
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-quebec-a-velo-bike-android/
+
+This application is not related with the àVélo, Réseau de Transport de la Capitale (RTC) or PBSC Solutions Urbaines.
+
+Permissions:
+- Other: required to load bike stations information and to read news from Twitter.
