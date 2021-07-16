@@ -5,10 +5,10 @@
     <string name="bike_station_status_for_poi_authority">@string/bike_station_authority</string>
     <integer name="bike_station_agency_type">100</integer>
     <string name="bike_station_data_url">https://quebec.publicbikesystem.net/ube/gbfs/v1/</string>
-    <string name="bike_station_area_min_lat">46.74</string>
-    <string name="bike_station_area_max_lat">46.86</string>
-    <string name="bike_station_area_min_lng">-71.39</string>
-    <string name="bike_station_area_max_lng">-71.14</string>
+    <string name="bike_station_area_min_lat">46.7828</string>
+    <string name="bike_station_area_max_lat">46.8461</string>
+    <string name="bike_station_area_min_lng">-71.3085</string>
+    <string name="bike_station_area_max_lng">-71.1315</string>
      <!-- CYAN GREEN: -->
     <string name="bike_station_color">47D7AC</string>
     <color name="bike_station_value1_color">#003E8A</color><!-- BLUE -->
