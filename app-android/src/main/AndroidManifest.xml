@@ -32,7 +32,7 @@
                 android:value="@string/bike_station_status_for_poi_authority" />
         </provider>
         <!-- TWITTER NEWS PROVIDER -->
-        <!--
+        <!-- mosty bus stuff, not bikes
         <provider
             android:name="org.mtransit.android.commons.provider.TwitterNewsProvider"
             android:authorities="@string/twitter_authority"
